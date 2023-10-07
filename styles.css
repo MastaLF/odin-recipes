@@ -10,7 +10,23 @@
 }
 
 h1 {
-    background-color: palevioletred;
-    
+    background-color: pink;
+    color: orangered;
+    text-align: center;
+}
 
+li {
+    color: green;
+}
+
+h3 {
+    background: plum;
+    color: blueviolet;
+    font-size: 28px;
+    text-align: center;
+}
+
+.bonus-text {
+    color: lightseagreen;
+    font-weight: bold;
 }
